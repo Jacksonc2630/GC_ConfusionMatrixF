@@ -1,6 +1,6 @@
-# GC_NumDetection
+# GC_ConfusionMatrixF
 
-A machine learning script for recognizing and classifying numerical digits.
+Evaluation metrics and confusion matrix visualization for machine learning classification models.
 
 ## Files
-- `numdetection.ipynb`: Google Colab notebook for digit classification.
+- `confusion_matrix_finished.ipynb`: Completed notebook showing evaluation metrics generation.
